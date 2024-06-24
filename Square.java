@@ -1,4 +1,4 @@
-public class Square extends Point{
+public class Square{
 	Point bot_left;
 	double length;
 	public Square(){
