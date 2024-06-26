@@ -16,10 +16,10 @@ public class TestCircle {
 	}
 
 	@Test
-	public void testCircleCircumfrence() {
+	public void testCircleCircumference() {
 		Point a = new Point(0, 0);
 		Circle circ = new Circle(a, 0.5);
-		assertEquals(circ.circumfrence(), Math.PI, ERR);
+		assertEquals(circ.circumference(), Math.PI, ERR);
 	}
 	
 }
