@@ -1,3 +1,20 @@
-All pull requests must reference the main issue
-All pull requests must specify the type of change 
-Everyone must do a self code review before creating a pull request.
+# PULL_REQUEST_TEMPLATE
+
+Description of issue and request.
+
+## Type of change
+
+- [ ] Bug fix.
+- [ ] New feature.
+- [ ] Modified feature.
+- [ ] Deleted feature.
+- [ ] Testing.
+- [ ] Documentation.
+
+## Checklist:
+
+- [ ] Code performs functionality of the project.
+- [ ] Code does not generate any errors or warnings.
+- [ ] Added testcases and tested code.
+- [ ] Performed a self-review of the the code.
+- [ ] Contacted Partners to merge and review code.
