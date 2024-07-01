@@ -6,6 +6,8 @@ Description of issue and request.
 
 - [ ] Bug fix.
 - [ ] New feature.
+- [ ] Modified feature.
+- [ ] Deleted feature.
 - [ ] Testing.
 - [ ] Documentation.
 
