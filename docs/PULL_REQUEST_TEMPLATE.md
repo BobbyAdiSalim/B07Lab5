@@ -16,5 +16,5 @@ Description of issue and request.
 - [ ] Code performs functionality of the project.
 - [ ] Code does not generate any errors or warnings.
 - [ ] Added testcases and tested code.
-- [ ] Performed a self-review of the the code.
+- [ ] Performed a self-review of the code.
 - [ ] Contacted Partners to merge and review code.
